@@ -1,4 +1,3 @@
-Gemini dijo
 ROS 2 Signal Processing
 Procesamiento de señales en ROS 2 Humble.
 
